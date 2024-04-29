@@ -8,13 +8,9 @@ User-Friendly Interface: Experience simplicity at its best with our interface de
 
 Advanced ML and AI Models: Powered by the latest advancements in machine learning, our system meticulously analyzes your symptoms, delivering precise disease predictions with unparalleled accuracy.
 
-Personalized Guidance: Receive personalized recommendations for the top 5 medicines, outlining prescription details, and even workout routines based on the predicted disease.
-
 FastAPI Integration: With our FastAPI web application seamlessly integrating all components, making it easily accessible to users. Whether you're at home or on the go, support is just a click away.
 
 Privacy and Security: Your privacy and security are our top priorities. Rest assured, your health information is treated with the utmost confidentiality and protected with robust security measures, adhering strictly to industry standards.
-
-Continuous Enhancement: We are committed to continuous improvement. As our system gathers more data and insights, our machine learning models evolve, ensuring that our recommendations remain at the forefront of accuracy and relevance.
 
 ## Introduction
 Welcome to my project! This ReadME will guide you through the setup and usage of this application. 
@@ -22,7 +18,7 @@ Welcome to my project! This ReadME will guide you through the setup and usage of
 ## Goals:
 - Develop a user-friendly interface for effortless symptom input.
 - Employ advanced AI algorithms to analyze symptoms and predict potential diseases accurately.
-- Provide personalized recommendations for the top 5 medicines, prescription details, and even workout routines based on the predicted disease(In future release).
+- Provide personalized recommendations of the medicines, prescription details, and even workout routines based on the predicted disease(In future release).
 - Provide tailored dietary suggestions to support proactive health management(In future release).
 - Offer precautionary measures aligned with predicted diseases to empower users in maintaining their well-being.
 - Recommend suitable healthcare providers based on predicted conditions.
@@ -30,9 +26,9 @@ Welcome to my project! This ReadME will guide you through the setup and usage of
 - Implement a rating system to gather user feedback on recommended doctors, enhancing the system's accuracy and - trustworthiness.
 
 ## Technologies Used:
-Frontend: Flutter(dart)
-Backend: FastAPI(Python)
-Database: PostgreSQL
+Frontend: Flutter(dart),
+Backend: FastAPI(Python),
+Database: PostgreSQL,
 Machine Learning Models: Using Pandas and Scikit-learn.
 
 ## Installation
